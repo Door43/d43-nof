@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nof:home|Door43 (nof)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nof|d43-nof repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nof/archive/master.zip|d43-nof.zip]]
+
+**Recent Changes**
+{{changes>ns = nof}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nof|Ethnologue data]]
+
